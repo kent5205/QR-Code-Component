@@ -62,6 +62,7 @@ Any comments about my code are well appreciated and will be implemented.
   --light-gray: hsl(212, 45%, 89%);
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-gray: hsl(218, 44%, 22%);
+  --shadow: hsl(220, 15%, 55%, 0.5);
 }
 
 body {
@@ -89,7 +90,7 @@ main {
   background-color: var(--white);
   padding: 1.2rem;
   border-radius: 1.2rem;
-  box-shadow: 5px 5px 20px var(--grayish-blue);
+  box-shadow: 5px 20px 25px var(--shadow);
 }
 
 .qrcode {
