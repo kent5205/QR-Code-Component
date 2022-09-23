@@ -100,7 +100,7 @@ main {
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com/w3css/defaulT.asp) - This helped me when I forget some properties.
+- [W3Schools](https://www.w3schools.com/w3css/defaulT.asp) - This helped me when I forget some css properties.
 
 ## Author
 
