@@ -45,7 +45,7 @@ When it comes to difficulty, I had a hard time with pixel sizes, but overall it'
 
 Any comments about my code are well appreciated and will be implemented.
 
-# CSS
+## CSS
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 * {
