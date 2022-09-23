@@ -40,9 +40,11 @@ main {
     background-color: var(--white);
     padding: 1.2rem;
     border-radius: 1.2rem;
+    box-shadow: 5px 5px 20px var(--grayish-blue);
 }
 
 .qrcode {
     width: 100%;
     border-radius: .75rem;
 }
+
